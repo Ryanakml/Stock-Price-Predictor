@@ -32,7 +32,7 @@ This project predicts stock prices using various machine learning models. This g
    Make sure you're in the virtual environment, then install the necessary packages.
 
    ```sh
-   pip install -r requirements.txt
+   ./venv/bin/pip install yfinance pandas numpy scikit-learn statsmodels xgboost shap matplotlib seaborn
    ```
 
 ## Usage
